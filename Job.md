@@ -1,5 +1,5 @@
 # Hallo Deutschland
-# Hallo jede person
+# Hallo jeder person
 
 Wie gehts euch
 was haben sie heute
